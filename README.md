@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mole1614x/DSA_with_Python/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mole1614x/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0435-non-overlapping-intervals](https://github.com/Mole1614x/DSA_with_Python/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mole1614x/DSA_with_Python/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mole1614x/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Mole1614x/DSA_with_Python/tree/master/0435-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mole1614x/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
