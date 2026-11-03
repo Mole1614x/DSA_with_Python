@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mole1614x/DSA_with_Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mole1614x/DSA_with_Python/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mole1614x/DSA_with_Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Mole1614x/DSA_with_Python/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mole1614x/DSA_with_Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mole1614x/DSA_with_Python/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mole1614x/DSA_with_Python/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mole1614x/DSA_with_Python/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Mole1614x/DSA_with_Python/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mole1614x/DSA_with_Python/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mole1614x/DSA_with_Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
